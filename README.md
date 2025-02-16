@@ -2,6 +2,9 @@
 
 This repository contains the code for "E-Plant-Shopping," a web application specializing in plants.  The project aims to provide a user-friendly platform for browsing and purchasing various plant species, along with resources for plant care and education.
 
+Preview Website
+Link: https://abhay-2108.github.io/E-Plant-Shopping/
+
 ## Features
 
 * **Homepage:** A visually appealing landing page with a hero image, introductory text about the store, and featured plant categories.
