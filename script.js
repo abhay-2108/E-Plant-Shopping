@@ -71,3 +71,7 @@ const button = document.getElementsById('button-next');
 button.addEventListener('click', () => {
     window.location.href = 'E-Plant_Shopping\shop.html';
 });
+
+function gotoShop() {
+    window.location.href = 'E-Plant_Shopping\shop.html';
+}
